@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+#about, #projects {
+    padding: 20px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#about h2, #projects h2 {
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
